@@ -1,0 +1,11 @@
+Age	Profession	Marrital Status	Education	No of Dependents	Personal loan	House Loan	Wife Working	Salary	Wife Salary	Total Salary	Make	Price
+27	Salaried	Single	Post Graduate	0	Yes	No	No	800000	0	800000	i20	800000
+35	Salaried	Married	Post Graduate	2	Yes	Yes	Yes	1400000	600000	2000000	Ciaz	1000000
+45	Business	Married	Graduate	4	Yes	Yes	No	1800000	0	1800000	Duster	1200000
+41	Business	Married	Post Graduate	3	No	No	Yes	1600000	600000	2200000	City	1200000
+31	Salaried	Married	Post Graduate	2	Yes	No	Yes	1800000	800000	2600000	SUV	1600000
+29	Business	Single	Graduate	1	No	Yes	No	1200000	0	1200000	Alto	500000
+50	Salaried	Married	Graduate	2	Yes	No	Yes	1500000	500000	2000000	Verna	1100000
+38	Business	Married	Post Graduate	3	Yes	Yes	No	1700000	0	1700000	Ertiga	900000
+33	Salaried	Single	Graduate	0	No	No	Yes	1100000	400000	1500000	Swift	700000
+40	Business	Married	Post Graduate	4	Yes	Yes	No	2000000	0	2000000	Innova	1500000
